@@ -183,6 +183,7 @@ def create_dataset(n: int):
             # Errors will be thrown if the user does not have a webcam or if they do not
             # grant the page permission to access it.
             logging.error(str(err))
+    logging.info('All done!')
 
 def take_photo(filename='photo.jpg', quality=0.8):
     js = Javascript('''
