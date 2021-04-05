@@ -1,6 +1,6 @@
 ### Few-shot learning: Creating a real-time object detection using TensorFlow and Python
 
-Fine tune a [RetinaNet](https://arxiv.org/abs/1708.02002) to create a custom object detection and run it in real-time.
+Fine tune a [RetinaNet](https://arxiv.org/abs/1708.02002) to create a custom model.
 
 ---
 
