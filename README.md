@@ -1,12 +1,14 @@
-### Few-Shot learning: RetinaNet
+### Few-shot learning: Creating a real-time object detection using TensorFlow and Python
 
-Create a real-time object detection with a few examples using [RetinaNet](https://arxiv.org/abs/1708.02002). 
+Fine tune a [RetinaNet](https://arxiv.org/abs/1708.02002) to create a custom object detection and run it in real-time.
 
 ---
 
 Wouldn’t it be frustrating if your smartphone needed to have thousands of pictures of you to recognize you and get unlocked? Thanks for the few-shot learning, this is not needed.
 
 This technique has drawn a lot of attention in the research community and many solutions have been developed. To predict something based on a few training examples, the solutions right now use meta-learning or in three words: learning to learn.
+
+RetinaNet is one of the most used few-shot learning convolution neural networks. In this repo, we are going to use TensorFlow and Python to fine tune this architecture and train a custom model.
 
 If you want to learn how the few-shot detectors work, open the '*Few Shot Learning: RetinaNet.ipynb*' notebook and follow the steps to create your own  object detector and run it in real-time.
 
