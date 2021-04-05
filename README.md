@@ -1,4 +1,4 @@
-### Few Short learning: RetinaNet
+### Few-Shot learning: RetinaNet
 
 Create a real-time object detection with a few examples using [RetinaNet](https://arxiv.org/abs/1708.02002). 
 
