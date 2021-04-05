@@ -10,7 +10,9 @@ This technique has drawn a lot of attention in the research community and many s
 
 If you want to learn how the few-shot detectors work, open the '*Few Shot Learning: RetinaNet.ipynb*' notebook and follow the steps to create your own  object detector and run it in real-time.
 
-[PUT A GIF EXAMPLE HERE]
+![Object detection demo: Skol](./git_media/skol_demo.gif)
+<br>
+
 
 
 
