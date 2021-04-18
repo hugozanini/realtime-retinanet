@@ -20,4 +20,4 @@ If you want to learn how the few-shot detectors work, open the '*Few Shot Learni
 
 ---
 
-This repository is part of an Expert Class in the Analytics Academy - powered by the Growth Analytics Center and the BudLab at  [Ab InBev](https://www.ab-inbev.com/)
+This repository is part of an Expert Class in the Analytics Academy - powered by the Growth Analytics Center, AmbevTech and the BudLab at  [Ab InBev](https://www.ab-inbev.com/)
