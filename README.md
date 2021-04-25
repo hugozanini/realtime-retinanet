@@ -10,7 +10,7 @@ This technique has drawn a lot of attention in the research community and many s
 
 RetinaNet is one of the most used few-shot learning convolution neural networks. In this repo, we are going to use TensorFlow and Python to fine tune this architecture and train a custom model.
 
-If you want to learn how the few-shot detectors work, open the '*Few Shot Learning: RetinaNet.ipynb*' notebook and follow the steps to create your own  object detector and run it in real-time.
+If you want to learn how the few-shot detectors work, open the ['Few Shot Learning: RetinaNet.ipynb'](https://colab.research.google.com/drive/11KAsKG6pTSUO-melYfCiohOVk4s6MwIB#scrollTo=PL8jmeQGKNT-) notebook and follow the steps to create your own  object detector and run it in real-time.
 
 ![Object detection demo: Skol](./git_media/skol_demo.gif)
 <br>
